@@ -6,3 +6,5 @@ https://www.kaggle.com/jonasalmeida/2015-deidentified-ny-inpatient-discharge-spa
 There are 2346760 rows and 37 columns in the dataset.
 
 The target is to **predict the length of stay** in the hospital.
+
+Due to the size of the dataset, please follow the link to download the csv file.
